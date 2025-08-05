@@ -19,7 +19,7 @@ This script scrapes the latest news headlines from the BBC News website.
 python news_scraper.py
 ```
 
-Make sure you have the required libraries installed:
+Make sure to install libraries:
 ```bash
 pip install requests beautifulsoup4
 ```
